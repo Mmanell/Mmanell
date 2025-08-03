@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Manel
 
-<!--
-**Mmanell/Mmanell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year student in **Industrial Computing & Automation** at **INSAT (Tunisia)**, specializing in **robotics**, with a strong focus on **autonomous navigation**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Programming Languages
+C++ · Python · C · Bash · MATLAB
+
+### 🤖 Robotics Tools
+ROS 2 · Gazebo · RViz · SLAM Toolbox · NAV2 Stack
+
+### 🔌 Embedded Systems
+STM32 · ESP32
+
+### 👁️ Computer Vision
+OpenCV · YOLO
+
+
+
+---
+
+## 📫 Let's Connect
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📬 Email: bouabdalla.manel@gmail.com  
+
+---
+
+
+
