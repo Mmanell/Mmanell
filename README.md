@@ -7,17 +7,17 @@ I'm a final-year student in **Industrial Computing & Automation** at **INSAT (Tu
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Programming Languages
-C++ · Python · C · Bash · MATLAB
+###💻 Programming Languages
+C/C++, Python, Embedded C, Shell/Bash, MATLAB
 
-### 🤖 Robotics Tools
-ROS 2 · Gazebo · RViz · SLAM Toolbox · NAV2 Stack
+###🛠️ Frameworks & Tools
+ROS2, Gazebo, RViz, TensorFlow, Git
 
-### 🔌 Embedded Systems
-STM32 · ESP32
+###🤖 Robotics
+Path Planning, Sensor Fusion, SLAM, Control Systems
 
-### 👁️ Computer Vision
-OpenCV · YOLO
+###🔌 Embedded Systems & Controllers
+STM32, ESP32, Raspberry Pi
 
 
 
