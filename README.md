@@ -25,7 +25,7 @@ STM32, ESP32, Raspberry Pi
 
 ## 📫 Let's Connect
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📎 [LinkedIn](www.linkedin.com/in/manel-bouabdallah)  
 - 📬 Email: bouabdalla.manel@gmail.com  
 
 ---
