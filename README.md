@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Manel Bouabdallah
 
 I'm a **Robotics M2 student at Grenoble INP – Ense3**, currently working on autonomous and multi-robot systems. I hold an **Engineering degree in Industrial Computing & Automation from INSAT (Tunisia)**.
-
-My interests lie in **autonomous robotics, multi-agent systems, motion planning, and control**, with hands-on experience developing and deploying robotic systems on real platforms.
 ---
+My interests lie in **autonomous robotics, multi-agent systems, motion planning, and control**, with hands-on experience developing and deploying robotic systems on real platforms.
+
 
 ## 🛠️ Tech Stack
 
